@@ -5,4 +5,4 @@ Dashboard public link = https://public.tableau.com/views/Co2demodash_16824099881
 
 Story public link = https://public.tableau.com/views/Co2demodash_16824099881590/Co2emissionstory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
-http = file:///C:/Users/ELCOT/Downloads/Arsha%20(1)/Arsha/index.html
+
